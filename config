@@ -152,6 +152,9 @@ bindsym $mod+Shift+0 move container to workspace $ws10
 assign [class="discord"] $ws4
 assign [class="firefox"] $ws2
 assign [class="Code"] $ws3
+assign [class="Lutris"] $ws5
+assign [class="VirtualBox"] $ws7
+assign [class="Thunar"] $ws8
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -200,10 +203,10 @@ default_border pixel
 default_floating_border pixel
 
 # Set inner/outer gaps
-for_window [class=".*"] border pixel 2 #*
+for_window [class=".*"] border pixel 1 #*
 gaps inner 10
 gaps outer 1
-#gaps horizontal 2
+# gaps horizontal 2
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
 # gaps inner|outer current|all set|plus|minus <px>
