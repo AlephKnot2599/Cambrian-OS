@@ -16,3 +16,7 @@ MAJOR RELEASE Ver. 1.2
 - Windows will now be highlighted in purple instead of the default blue color.
 - Neatened up config files.
 - Added a few new colors.
+
+Patch 1.2.1
+- Modified Picom.conf to have more features.
+- Tweaked color palette of Polybar.
