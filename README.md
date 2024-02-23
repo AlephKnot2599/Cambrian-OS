@@ -22,5 +22,5 @@ Patch 1.2.1
 - Tweaked color palette of Polybar.
 
 Patch 1.2.2
--Changed i3 config file to make highlighted windows appear more polished.
--Edited picom.conf to dim windows that are not focused.
+- Changed i3 config file to make highlighted windows appear more polished.
+- Edited picom.conf to dim windows that are not focused.
