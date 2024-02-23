@@ -20,3 +20,7 @@ MAJOR RELEASE Ver. 1.2
 Patch 1.2.1
 - Modified Picom.conf to have more features.
 - Tweaked color palette of Polybar.
+
+Patch 1.2.2
+-Changed i3 config file to make highlighted windows appear more polished.
+-Edited picom.conf to dim windows that are not focused.
