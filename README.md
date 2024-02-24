@@ -24,3 +24,8 @@ Patch 1.2.1
 Patch 1.2.2
 - Changed i3 config file to make highlighted windows appear more polished.
 - Edited picom.conf to dim windows that are not focused.
+
+Update 1.2.3
+- Added power menu and cmenu modules.
+- The respective modules allow you to power off the device and open rofi respectively.
+- Added bind to open Firefox.
