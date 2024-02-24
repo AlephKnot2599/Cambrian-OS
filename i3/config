@@ -54,11 +54,14 @@ bindsym $mod+Return exec alacritty
 # start firefox
 bindsym $mod+b exec firefox
 
+# take screenshot
+bindsym Print exec "flameshot gui"
+
 # kill focused window
 bindsym $mod+q kill
 
 # start rofi (a program launcher)
-bindsym $mod+d exec ~/.config/rofi/launchers/type-3/launcher.sh
+bindsym $mod+d exec ~/.config/rofi/launchers/type-6/launcher.sh
 # A less modern rofi replacement is dmenu:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
