@@ -29,3 +29,7 @@ Update 1.2.3
 - Added power menu and cmenu modules.
 - The respective modules allow you to power off the device and open rofi respectively.
 - Added bind to open Firefox.
+
+Patch 1.2.4
+- Added GUI for power menu.
+- Changed cmenu and power menu to a purple theme.
