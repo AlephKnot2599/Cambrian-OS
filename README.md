@@ -1,4 +1,4 @@
-![alt text](https://github.com/AlephKnot2599/Cambrian-OS-1.2.4/blob/main/Screenshots/C-OS6.png?raw=true)
+![alt text](https://github.com/AlephKnot2599/Cambrian-OS-1.2.4/blob/main/Screenshots/C-OS7.png?raw=true)
 
 My configs for i3 Window Manager, along with various other plugins that I use in tandem with it.
 
