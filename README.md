@@ -35,4 +35,4 @@ Patch 1.2.4
 
 Patch 1.2.5
 - Changed appearance of Polybar to dark transparent theme.
-- Removed seperators for modules.
+- Removed separators for modules.
