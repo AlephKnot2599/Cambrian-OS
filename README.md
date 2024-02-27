@@ -1,3 +1,6 @@
+![alt text](https://github.com/AlephKnot2599/Cambrian-OS-1.2.4/blob/main/Screenshots/Home-2.png?raw=true)
+
+
 ![alt text](https://github.com/AlephKnot2599/Cambrian-OS-1.2.4/blob/main/Screenshots/C-OS7.png?raw=true)
 
 My configs for i3 Window Manager, along with various other plugins that I use in tandem with it.
@@ -36,3 +39,7 @@ Patch 1.2.4
 Patch 1.2.5
 - Changed appearance of Polybar to dark transparent theme.
 - Removed separators for modules.
+
+Patch 1.2.6
+- Added more color options to colors.ini
+- Added color-neutral appearance to i3 and Polybar
