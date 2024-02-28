@@ -43,3 +43,5 @@ Patch 1.2.5
 Patch 1.2.6
 - Added more color options to colors.ini
 - Added color-neutral appearance to i3 and Polybar
+
+--Only major changes will be documented from now on.
