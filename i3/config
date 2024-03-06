@@ -162,9 +162,9 @@ assign [class="Lutris"] $ws5
 assign [class="VirtualBox"] $ws7
 assign [class="Thunar"] $ws8
 assign [class="steam"] $ws5
-assign [class="worldpainter"] $ws9
-assign [class="kdenlive"] $ws7
-assign [class="obs"] $ws7
+assign [class="worldpainter"] $ws10
+assign [class="kdenlive"] $ws9
+assign [class="obs"] $ws9
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
