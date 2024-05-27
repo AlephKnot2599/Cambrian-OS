@@ -49,10 +49,13 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec kitty
 
 # start firefox
 bindsym $mod+b exec firefox
+
+# start thunar
+bindsym $mod+Shift+b exec thunar
 
 # take screenshot
 bindsym Print exec "flameshot gui"
@@ -269,7 +272,7 @@ mode "$mode_gaps_outer" {
 }
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #86aedc #86aedc #ffffff #86aedc   #86aedc
+client.focused          #ac89cf #ac89cf #ffffff #ac89cf   #ac89cf
 #client.focused_inactive #d55ce0 #d55ce0 #ffffff #d55ce0   #d55ce0
 client.unfocused        #747474 #747474 #888888 #747474   #747474
 #client.urgent           #b9b9b9 #b9b9b9 #ffffff #b9b9b9   #b9b9b9
