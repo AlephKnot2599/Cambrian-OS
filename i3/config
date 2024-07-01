@@ -161,13 +161,15 @@ bindsym $mod+Shift+0 move container to workspace $ws10
 assign [class="discord"] $ws4
 assign [class="firefox"] $ws2
 assign [class="Code"] $ws3
-assign [class="Lutris"] $ws5
+assign [class="Lutris"] $ws6
 assign [class="VirtualBox"] $ws7
 assign [class="Thunar"] $ws8
 assign [class="steam"] $ws5
 assign [class="worldpainter"] $ws10
 assign [class="kdenlive"] $ws9
 assign [class="obs"] $ws9
+assign [class="Prism"] $ws6
+assign [class="Spotify"] $ws4
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
